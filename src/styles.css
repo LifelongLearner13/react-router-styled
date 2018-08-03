@@ -1,0 +1,14 @@
+.styled-component {
+  display: block;
+  margin: 0;
+  padding: 5px;
+}
+
+.styled-component__title {
+  font-size: 4px;
+  font-family: 'Courier New', Courier, monospace;
+  color: gray;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
